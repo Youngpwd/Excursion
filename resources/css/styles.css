@@ -1,0 +1,57 @@
+/* body */
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* header */
+h1 {
+  color: white;
+  font-weight: normal;
+  font-size: 50px;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+/* video container */
+video {
+  margin-top: 25px;
+}
+
+/* main section */
+
+h2 {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+section img {
+  margin-bottom: 25px;
+}
+
+/* border */
+.border {
+  position: relative;
+  border-top: thin solid white;
+  width: 50%;
+  margin: 15px auto;
+}
+
+/* footer */
+.phone-icon {
+  margin-top: 60px;
+}
+
+.copyright {
+  text-align: right;
+}
