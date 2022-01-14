@@ -1,1 +1,1 @@
-This is for the codecademy Excursion project
+visit https://youngpwd.github.io/Excursion/
